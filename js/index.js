@@ -7,7 +7,7 @@ const app = {
     getData() {
     },
     onSearch() {
-    },
+    }, 
     render(message) {
     }
 
